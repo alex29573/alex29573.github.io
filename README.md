@@ -1,2 +1,2 @@
 # alex29573.github.io
-mi primer repositorio para git ub pages
+este es un ejemplo : https://alex29573.github.io/
